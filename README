@@ -1,0 +1,5 @@
+This is an attempt to replicate one of the simulations in
+T. SELLKE ET AL. AM. STAT. 55, 62–71 (2001).
+It compares the distribution of p-values under the null hypothesis
+and a specific alternative, and illustrates that p-values do not give
+the probability of the null hypothesis.
